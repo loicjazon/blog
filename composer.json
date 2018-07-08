@@ -1,0 +1,11 @@
+{
+    "name": "loicjazon/blog",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Loïc Jazon",
+            "email": "loic.jazon@gmail.com"
+        }
+    ],
+    "require": {}
+}
